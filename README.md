@@ -19,7 +19,7 @@ API啥的都给你翻好了剩下的各位自己动手。
 **视学校解决问题力度不定期更新。**  
 **视学校解决问题力度不定期更新。**  
 
-## What it used for?
+## Whats it used for?
 
 It is used for send email through the "Chacellor's Mailbox" on the official website. The mail content will be forwarded to the processer.
 So, theoritically knowing the API address and make some tricks you can unlimitedly sending messages to the center.
